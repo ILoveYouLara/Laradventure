@@ -1,0 +1,2001 @@
+{
+  "version": "1.0.0",
+  "totalObjects": 103,
+  "objects": [
+    {
+      "id": "3eeb264c-a53c-4ed1-ba84-28ac7471ba67",
+      "name": "Object 0",
+      "filename": "3eeb264c-a53c-4ed1-ba84-28ac7471ba67.png",
+      "boundingBox": {
+        "x": 133,
+        "y": 273.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T08:59:31.406Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "323fa925-4789-430a-855c-11522d58e6e4",
+      "name": "Object 0 (Copy)",
+      "filename": "323fa925-4789-430a-855c-11522d58e6e4.png",
+      "boundingBox": {
+        "x": 126,
+        "y": 398.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T08:59:38.178Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7cc5dc02-b8be-4b46-bc02-890828ad1214",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "7cc5dc02-b8be-4b46-bc02-890828ad1214.png",
+      "boundingBox": {
+        "x": 217.5,
+        "y": 397.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T08:59:48.413Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "bde5c4ae-25ca-4759-b33d-f32c2f94890e",
+      "name": "Object 0 (Copy)",
+      "filename": "bde5c4ae-25ca-4759-b33d-f32c2f94890e.png",
+      "boundingBox": {
+        "x": 314.5,
+        "y": 399,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T08:59:55.689Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5e9e120f-193f-42ec-9b60-324d904f90c6",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "5e9e120f-193f-42ec-9b60-324d904f90c6.png",
+      "boundingBox": {
+        "x": 98.5,
+        "y": 406,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:00:05.130Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6de846c8-30e0-4499-8db6-9e0a3eaad331",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6de846c8-30e0-4499-8db6-9e0a3eaad331.png",
+      "boundingBox": {
+        "x": 269,
+        "y": 480,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:00:13.617Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "06fded21-123a-4d0f-a64c-11af787e86bf",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "06fded21-123a-4d0f-a64c-11af787e86bf.png",
+      "boundingBox": {
+        "x": 75,
+        "y": 410.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:01:04.832Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1cc515fc-7d06-47d9-8eab-5528e52bd901",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1cc515fc-7d06-47d9-8eab-5528e52bd901.png",
+      "boundingBox": {
+        "x": 95,
+        "y": 430.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:01:10.949Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1cc78bec-e3ec-46f9-a789-b8e8da8d9532",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1cc78bec-e3ec-46f9-a789-b8e8da8d9532.png",
+      "boundingBox": {
+        "x": 73,
+        "y": 434.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:01:12.191Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ef699021-d0aa-4037-a802-c949f0e093cd",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ef699021-d0aa-4037-a802-c949f0e093cd.png",
+      "boundingBox": {
+        "x": 95.5,
+        "y": 455.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:01:14.908Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "13a6dc07-5215-4005-a83d-7821c5912398",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "13a6dc07-5215-4005-a83d-7821c5912398.png",
+      "boundingBox": {
+        "x": 78,
+        "y": 472,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:01:17.119Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3a645ff5-8716-4d09-96d1-3de75934d576",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3a645ff5-8716-4d09-96d1-3de75934d576.png",
+      "boundingBox": {
+        "x": 108,
+        "y": 480.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:01:22.064Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "53b22aea-8553-4212-a835-3e1410cad88d",
+      "name": "Object 0",
+      "filename": "53b22aea-8553-4212-a835-3e1410cad88d.png",
+      "boundingBox": {
+        "x": 253.5,
+        "y": 390,
+        "width": 50,
+        "height": 58
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "pokemon theme house facing south\n\n",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:07:25.488Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ca2dd427-3c29-483e-ba5a-a7ef8811a573",
+      "name": "Object 0 (Copy)",
+      "filename": "ca2dd427-3c29-483e-ba5a-a7ef8811a573.png",
+      "boundingBox": {
+        "x": 347.5,
+        "y": 454,
+        "width": 50,
+        "height": 58
+      },
+      "layer": 15,
+      "visible": true,
+      "locked": false,
+      "description": "pokemon theme house facing south\n\n",
+      "metadata": {
+        "version": "2026-01-31T09:18:51.397067",
+        "lastEdited": "2026-01-31T09:18:51.397067",
+        "generatedAt": "2026-01-31T09:07:45.899Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "952787bc-4bcd-4e15-9468-8238821a5291",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "952787bc-4bcd-4e15-9468-8238821a5291.png",
+      "boundingBox": {
+        "x": 152,
+        "y": 476,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:09.393Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b7439312-9ae5-4ac1-8bcb-c54a15bef028",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "b7439312-9ae5-4ac1-8bcb-c54a15bef028.png",
+      "boundingBox": {
+        "x": 193,
+        "y": 476.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:15.503Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a0648480-4b81-4d16-a186-ed2f6ac0fbf6",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a0648480-4b81-4d16-a186-ed2f6ac0fbf6.png",
+      "boundingBox": {
+        "x": 224,
+        "y": 481,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:19.006Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d5dd1e18-4865-4478-bdb0-69b1243eabae",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d5dd1e18-4865-4478-bdb0-69b1243eabae.png",
+      "boundingBox": {
+        "x": 133,
+        "y": 493,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:43.670Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ee9f9dc5-af89-49fc-b73a-519d0b8801d4",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ee9f9dc5-af89-49fc-b73a-519d0b8801d4.png",
+      "boundingBox": {
+        "x": 171.5,
+        "y": 501.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:44.981Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "261f7cc9-e748-4dd3-83f9-adfccb844355",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "261f7cc9-e748-4dd3-83f9-adfccb844355.png",
+      "boundingBox": {
+        "x": 205.5,
+        "y": 500,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:45.991Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3da50b91-7ef3-4d29-8b4f-acb36cc85318",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3da50b91-7ef3-4d29-8b4f-acb36cc85318.png",
+      "boundingBox": {
+        "x": 241,
+        "y": 496,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:46.932Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "072c5afd-e31a-4506-a652-45067d9819b3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "072c5afd-e31a-4506-a652-45067d9819b3.png",
+      "boundingBox": {
+        "x": 285.5,
+        "y": 496,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:47.902Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "944eb0ed-930b-477b-afbe-e8ccc27c4dfc",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "944eb0ed-930b-477b-afbe-e8ccc27c4dfc.png",
+      "boundingBox": {
+        "x": 313.5,
+        "y": 482.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:50.050Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7eee08af-05b2-4c99-b4a6-1669a90e502c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7eee08af-05b2-4c99-b4a6-1669a90e502c.png",
+      "boundingBox": {
+        "x": 304,
+        "y": 498.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:51.332Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3343811b-9b5e-4c05-a00e-0991de3d4b54",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "3343811b-9b5e-4c05-a00e-0991de3d4b54.png",
+      "boundingBox": {
+        "x": 336,
+        "y": 497.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 38,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:53.258Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5fb13343-03cd-43ca-9c8f-484b7027258f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5fb13343-03cd-43ca-9c8f-484b7027258f.png",
+      "boundingBox": {
+        "x": 149,
+        "y": 512.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:54.858Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a225d277-8eaf-41be-9930-da1f32b569e0",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a225d277-8eaf-41be-9930-da1f32b569e0.png",
+      "boundingBox": {
+        "x": 189.5,
+        "y": 518.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:56.637Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "197e0f4f-3f36-4cf5-b84d-47d2f0e7eaee",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "197e0f4f-3f36-4cf5-b84d-47d2f0e7eaee.png",
+      "boundingBox": {
+        "x": 88,
+        "y": 500.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:57.819Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "68729375-f6b5-4f75-b8cf-e8d9bfc958ff",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "68729375-f6b5-4f75-b8cf-e8d9bfc958ff.png",
+      "boundingBox": {
+        "x": 113.5,
+        "y": 506.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:32:59.056Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "9cef865c-7cbd-463a-b65d-61839e42701e",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "9cef865c-7cbd-463a-b65d-61839e42701e.png",
+      "boundingBox": {
+        "x": 133.5,
+        "y": 526.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:00.203Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ecaed813-5300-402a-bef4-cb33baa9e2d6",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ecaed813-5300-402a-bef4-cb33baa9e2d6.png",
+      "boundingBox": {
+        "x": 93,
+        "y": 524,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:03.287Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "322e10f2-2499-4607-8dde-400b30579716",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "322e10f2-2499-4607-8dde-400b30579716.png",
+      "boundingBox": {
+        "x": 166.5,
+        "y": 526,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:04.334Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ee3fd249-2c96-49d7-8366-54ef19c68a28",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ee3fd249-2c96-49d7-8366-54ef19c68a28.png",
+      "boundingBox": {
+        "x": 216.5,
+        "y": 524,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:05.758Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0f2cc588-c0a7-4859-8792-c9a95fcd9d80",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0f2cc588-c0a7-4859-8792-c9a95fcd9d80.png",
+      "boundingBox": {
+        "x": 239.5,
+        "y": 517,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:07.850Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ae84f8a9-f89c-4b43-ac02-862f0e18c452",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ae84f8a9-f89c-4b43-ac02-862f0e18c452.png",
+      "boundingBox": {
+        "x": 265.5,
+        "y": 522,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:09.917Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "81b263ad-c71d-4158-80a4-4d565b43809c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "81b263ad-c71d-4158-80a4-4d565b43809c.png",
+      "boundingBox": {
+        "x": 285.5,
+        "y": 542,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:11.021Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "98019681-364a-4285-9e09-3df70e05e925",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "98019681-364a-4285-9e09-3df70e05e925.png",
+      "boundingBox": {
+        "x": 217,
+        "y": 524,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:12.331Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "7ce2136f-4c33-4c03-9506-82f230adab53",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "7ce2136f-4c33-4c03-9506-82f230adab53.png",
+      "boundingBox": {
+        "x": 315,
+        "y": 520.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:15.339Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "aba2d575-0142-44b9-b374-e3d6d6137bca",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "aba2d575-0142-44b9-b374-e3d6d6137bca.png",
+      "boundingBox": {
+        "x": 310,
+        "y": 540.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:16.959Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "df635a2b-7fa2-46cf-ba6e-a537c9f8a971",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "df635a2b-7fa2-46cf-ba6e-a537c9f8a971.png",
+      "boundingBox": {
+        "x": 260.5,
+        "y": 545.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:18.990Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ebbd5215-ef29-48f6-9b3b-78f4afe0c3e6",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ebbd5215-ef29-48f6-9b3b-78f4afe0c3e6.png",
+      "boundingBox": {
+        "x": 238,
+        "y": 544.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:20.621Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e8d9c64f-23ea-4e68-a256-644984be9970",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e8d9c64f-23ea-4e68-a256-644984be9970.png",
+      "boundingBox": {
+        "x": 200,
+        "y": 544.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:23.415Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a576cec9-fe79-436c-a352-4a6120aadc4d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a576cec9-fe79-436c-a352-4a6120aadc4d.png",
+      "boundingBox": {
+        "x": 169,
+        "y": 548.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:24.819Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "11b2277a-3104-4373-b282-cbe89a958774",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "11b2277a-3104-4373-b282-cbe89a958774.png",
+      "boundingBox": {
+        "x": 140.5,
+        "y": 548.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:26.222Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fe574207-52ab-427e-9f49-8c2d665f457c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "fe574207-52ab-427e-9f49-8c2d665f457c.png",
+      "boundingBox": {
+        "x": 104.5,
+        "y": 542.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:27.548Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "12d23d53-340d-4dc1-8279-ce6a35d8a6d3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "12d23d53-340d-4dc1-8279-ce6a35d8a6d3.png",
+      "boundingBox": {
+        "x": 78,
+        "y": 548.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:28.700Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "98177e6c-ce91-430f-b17c-724f6056b5ac",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "98177e6c-ce91-430f-b17c-724f6056b5ac.png",
+      "boundingBox": {
+        "x": 115.5,
+        "y": 566,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:31.149Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8ae8b3e3-8b1d-4aa4-b1a8-34f06dd170d1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "8ae8b3e3-8b1d-4aa4-b1a8-34f06dd170d1.png",
+      "boundingBox": {
+        "x": 473.5,
+        "y": 476.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:32.399Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2396d0c9-edf6-42e1-90dd-3b59ea8a8d90",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2396d0c9-edf6-42e1-90dd-3b59ea8a8d90.png",
+      "boundingBox": {
+        "x": 494.5,
+        "y": 606.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:38.423Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "43f97c45-6593-4da0-b335-4e7d003d1126",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "43f97c45-6593-4da0-b335-4e7d003d1126.png",
+      "boundingBox": {
+        "x": 500.5,
+        "y": 396,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:39.342Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c93052e8-1a8d-4fe2-823c-2a40312f4c1b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c93052e8-1a8d-4fe2-823c-2a40312f4c1b.png",
+      "boundingBox": {
+        "x": 388,
+        "y": 401,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:40.604Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4ef40a4f-ac17-4770-8893-10ab6b36f0ba",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4ef40a4f-ac17-4770-8893-10ab6b36f0ba.png",
+      "boundingBox": {
+        "x": 598.5,
+        "y": 560.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:48.450Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "74100a94-28bb-4c5b-8beb-4d59a2a2b519",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "74100a94-28bb-4c5b-8beb-4d59a2a2b519.png",
+      "boundingBox": {
+        "x": 587.5,
+        "y": 465,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:49.560Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "59f59327-5a75-4292-8ced-62f3a910dc4a",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "59f59327-5a75-4292-8ced-62f3a910dc4a.png",
+      "boundingBox": {
+        "x": 387,
+        "y": 329.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:53.317Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "86f14764-4f02-4605-af13-1c15d15bf91c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "86f14764-4f02-4605-af13-1c15d15bf91c.png",
+      "boundingBox": {
+        "x": 449,
+        "y": 344,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:55.880Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2e5a75e9-7c15-4d62-b396-af0f712e5cb3",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2e5a75e9-7c15-4d62-b396-af0f712e5cb3.png",
+      "boundingBox": {
+        "x": 542,
+        "y": 372,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:57.214Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "6f70ea73-1cb2-46b1-981c-b601cbdae27e",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "6f70ea73-1cb2-46b1-981c-b601cbdae27e.png",
+      "boundingBox": {
+        "x": 244,
+        "y": 329.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:33:58.294Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "961231fa-799e-4cb2-b5d2-af495bbedca2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "961231fa-799e-4cb2-b5d2-af495bbedca2.png",
+      "boundingBox": {
+        "x": 116,
+        "y": 320,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:00.401Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "78555d1b-77e1-48eb-896e-836c670c75b4",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "78555d1b-77e1-48eb-896e-836c670c75b4.png",
+      "boundingBox": {
+        "x": 621.5,
+        "y": 417,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:01.715Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "317e77f2-6ab1-4510-bc47-5e8903882406",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "317e77f2-6ab1-4510-bc47-5e8903882406.png",
+      "boundingBox": {
+        "x": 543.5,
+        "y": 250,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:02.905Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "47834d6b-e20a-45c0-adf1-c07cf6a4b56e",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "47834d6b-e20a-45c0-adf1-c07cf6a4b56e.png",
+      "boundingBox": {
+        "x": 676,
+        "y": 479,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:05.043Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "886e0603-8828-4138-a088-f021ee39f74b",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "886e0603-8828-4138-a088-f021ee39f74b.png",
+      "boundingBox": {
+        "x": 456,
+        "y": 260.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:07.013Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "01c3cc76-bb42-4d0f-ad9c-5e2c63dfc510",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "01c3cc76-bb42-4d0f-ad9c-5e2c63dfc510.png",
+      "boundingBox": {
+        "x": 299.5,
+        "y": 207.00000000000003,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:07.848Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "edac6388-2541-4d50-a5ec-f1897cbafcac",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "edac6388-2541-4d50-a5ec-f1897cbafcac.png",
+      "boundingBox": {
+        "x": 413.5,
+        "y": 234.33333333333331,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:08.631Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ef912506-80db-4b29-baa3-199d2668f79d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ef912506-80db-4b29-baa3-199d2668f79d.png",
+      "boundingBox": {
+        "x": 490,
+        "y": 222.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:10.710Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "c5a1c39a-5934-4d6a-9344-25fb577331d0",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "c5a1c39a-5934-4d6a-9344-25fb577331d0.png",
+      "boundingBox": {
+        "x": 560.5,
+        "y": 294,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:11.522Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "68e106da-97df-45f4-af13-8df1639c7ad8",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "68e106da-97df-45f4-af13-8df1639c7ad8.png",
+      "boundingBox": {
+        "x": 661,
+        "y": 285,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:12.349Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2a1cb6af-4c66-44b5-abcd-ccd4a359b618",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2a1cb6af-4c66-44b5-abcd-ccd4a359b618.png",
+      "boundingBox": {
+        "x": 610,
+        "y": 253.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:14.065Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8e8ccace-f389-40ea-8489-6e0c0e5878c4",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "8e8ccace-f389-40ea-8489-6e0c0e5878c4.png",
+      "boundingBox": {
+        "x": 733,
+        "y": 289.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:14.972Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "0cc476a1-125c-4c15-a3fb-e74b005a9cd2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "0cc476a1-125c-4c15-a3fb-e74b005a9cd2.png",
+      "boundingBox": {
+        "x": 809,
+        "y": 317.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:21.910Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "60c83277-0ffb-4ec2-a1ab-30483d06741c",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "60c83277-0ffb-4ec2-a1ab-30483d06741c.png",
+      "boundingBox": {
+        "x": 819,
+        "y": 267.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:23.376Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "027e3093-0a7f-4fed-ad3e-8da32b95d445",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "027e3093-0a7f-4fed-ad3e-8da32b95d445.png",
+      "boundingBox": {
+        "x": 751.5,
+        "y": 220,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:25.173Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8b311004-cf8e-4138-b79c-84897127ca7f",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "8b311004-cf8e-4138-b79c-84897127ca7f.png",
+      "boundingBox": {
+        "x": 658,
+        "y": 215.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:34:26.109Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "812bf69c-c0e3-47fb-9413-0a037883e089",
+      "name": "Object 0",
+      "filename": "812bf69c-c0e3-47fb-9413-0a037883e089.png",
+      "boundingBox": {
+        "x": 417.3333333333333,
+        "y": 450.99999999999994,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:35:23.451Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b7f8017d-dd12-48e6-924d-827867a26876",
+      "name": "Object 0",
+      "filename": "b7f8017d-dd12-48e6-924d-827867a26876.png",
+      "boundingBox": {
+        "x": 571,
+        "y": 170,
+        "width": 34,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "treasure chest\n",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:43:40.690Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3500cec1-ca06-43a9-a2bf-066644186dfc",
+      "name": "Object 0 (Copy)",
+      "filename": "3500cec1-ca06-43a9-a2bf-066644186dfc.png",
+      "boundingBox": {
+        "x": 451.66666666666663,
+        "y": 414.66666666666663,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:48:51.071Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "b2612b36-0d57-47a8-baf9-e714ac47ae61",
+      "name": "Object 0 (Copy)",
+      "filename": "b2612b36-0d57-47a8-baf9-e714ac47ae61.png",
+      "boundingBox": {
+        "x": 225.99999999999997,
+        "y": 413.33333333333326,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:49:26.504Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "3bf0ddf6-6da1-4f11-9c00-fe15e895e8a2",
+      "name": "Object 0 (Copy)",
+      "filename": "3bf0ddf6-6da1-4f11-9c00-fe15e895e8a2.png",
+      "boundingBox": {
+        "x": 576.6666666666667,
+        "y": 605.6666666666665,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:49:38.642Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "16b6570a-b13c-423a-9a45-c4bf3a8d8576",
+      "name": "Object 0 (Copy) (Copy)",
+      "filename": "16b6570a-b13c-423a-9a45-c4bf3a8d8576.png",
+      "boundingBox": {
+        "x": 619.3333333333334,
+        "y": 508.6666666666665,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:49:42.856Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "38f21fb6-9b5e-4bee-98ee-39383aecdcc6",
+      "name": "Object 0 (Copy) (Copy) (Copy)",
+      "filename": "38f21fb6-9b5e-4bee-98ee-39383aecdcc6.png",
+      "boundingBox": {
+        "x": 592,
+        "y": 642.3333333333331,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:49:47.446Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1b4845c2-c768-4913-9acb-ce222a2989a1",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1b4845c2-c768-4913-9acb-ce222a2989a1.png",
+      "boundingBox": {
+        "x": 658.3333333333334,
+        "y": 738,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:49:51.785Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "d453901d-a6cb-4c56-8f0e-d51e5287dd29",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "d453901d-a6cb-4c56-8f0e-d51e5287dd29.png",
+      "boundingBox": {
+        "x": 723.6666666666667,
+        "y": 701.3333333333333,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:49:59.926Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fc73bb24-569d-4ef1-b1ab-40a59096a1dc",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "fc73bb24-569d-4ef1-b1ab-40a59096a1dc.png",
+      "boundingBox": {
+        "x": 470.5,
+        "y": 546,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:41.181Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "f0029869-7aa6-4ccc-84f6-f188352ee000",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "f0029869-7aa6-4ccc-84f6-f188352ee000.png",
+      "boundingBox": {
+        "x": 416.5,
+        "y": 520,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:43.836Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4c1456bf-3dfb-4427-8de1-e32ae5577769",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4c1456bf-3dfb-4427-8de1-e32ae5577769.png",
+      "boundingBox": {
+        "x": 376,
+        "y": 548.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:46.285Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "fa56b5d3-bb11-4628-a95a-1b8dc7f11ba2",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "fa56b5d3-bb11-4628-a95a-1b8dc7f11ba2.png",
+      "boundingBox": {
+        "x": 302,
+        "y": 595.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:48.196Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ea36ad0f-84f5-4bf6-a71b-38ba70308abb",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ea36ad0f-84f5-4bf6-a71b-38ba70308abb.png",
+      "boundingBox": {
+        "x": 382.5,
+        "y": 605,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:50.193Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "2204f0a7-9ec0-45d5-9a3a-8d802c8b9b67",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "2204f0a7-9ec0-45d5-9a3a-8d802c8b9b67.png",
+      "boundingBox": {
+        "x": 209.5,
+        "y": 680.8333333333335,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "version": "2026-01-31T09:54:23.741366",
+        "lastEdited": "2026-01-31T09:54:23.741366",
+        "generatedAt": "2026-01-31T09:50:51.193Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a847a0be-e04c-45e1-9dd3-3379adcbda37",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a847a0be-e04c-45e1-9dd3-3379adcbda37.png",
+      "boundingBox": {
+        "x": 166.5,
+        "y": 609.5,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:52.249Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "de209b10-b2cf-4e77-b4f3-244068e16808",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "de209b10-b2cf-4e77-b4f3-244068e16808.png",
+      "boundingBox": {
+        "x": 103.5,
+        "y": 633,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:50:53.372Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1ec484a8-a8c0-4bfa-b185-0ce55db1387a",
+      "name": "Object 0",
+      "filename": "1ec484a8-a8c0-4bfa-b185-0ce55db1387a.png",
+      "boundingBox": {
+        "x": 356.5,
+        "y": 175,
+        "width": 50,
+        "height": 44
+      },
+      "layer": 91,
+      "visible": true,
+      "locked": false,
+      "description": "bear",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:52:16.941Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "1fcb75ea-777d-4c6e-b2c0-d5d5e0e2a722",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "1fcb75ea-777d-4c6e-b2c0-d5d5e0e2a722.png",
+      "boundingBox": {
+        "x": 181.5,
+        "y": 699.8333333333334,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 2,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:54:48.177Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "93c70905-d8c5-4d30-b7b1-fc9a3a5b03a4",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "93c70905-d8c5-4d30-b7b1-fc9a3a5b03a4.png",
+      "boundingBox": {
+        "x": 198.16666666666666,
+        "y": 720.8333333333334,
+        "width": 32,
+        "height": 40
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "tree",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:54:49.981Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "574094f5-c7bc-4749-a0e3-86107072ab1d",
+      "name": "Object 0",
+      "filename": "574094f5-c7bc-4749-a0e3-86107072ab1d.png",
+      "boundingBox": {
+        "x": 273.5378874876468,
+        "y": 625.5378874876468,
+        "width": 92,
+        "height": 80
+      },
+      "layer": 94,
+      "visible": true,
+      "locked": false,
+      "description": "pokemon theme house mansion",
+      "metadata": {
+        "generatedAt": "2026-01-31T09:56:10.769Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "14072a36-dba9-467d-9819-675dd9fa776d",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy)",
+      "filename": "14072a36-dba9-467d-9819-675dd9fa776d.png",
+      "boundingBox": {
+        "x": 424.00000000000006,
+        "y": 738.6666666666664,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:16.958Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "5556e9d5-0c71-406f-bbd8-22784f4141f9",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "5556e9d5-0c71-406f-bbd8-22784f4141f9.png",
+      "boundingBox": {
+        "x": 254.66666666666674,
+        "y": 685.3333333333331,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:19.096Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "4449e18b-b211-496b-8e0b-b0ac424efc26",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "4449e18b-b211-496b-8e0b-b0ac424efc26.png",
+      "boundingBox": {
+        "x": 346.3333333333335,
+        "y": 685.6666666666664,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:21.867Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "ae7e7ca9-0c53-44e2-9d96-a567ba51fced",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "ae7e7ca9-0c53-44e2-9d96-a567ba51fced.png",
+      "boundingBox": {
+        "x": 315.3333333333334,
+        "y": 721.6666666666664,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:24.377Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "e99a1294-d812-4d3a-91ab-526c939cf384",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "e99a1294-d812-4d3a-91ab-526c939cf384.png",
+      "boundingBox": {
+        "x": 201.66666666666677,
+        "y": 737.9999999999998,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:29.947Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a0276348-bc15-4b5a-b62f-813e191d3283",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a0276348-bc15-4b5a-b62f-813e191d3283.png",
+      "boundingBox": {
+        "x": 194.00000000000006,
+        "y": 674.3333333333329,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:38.430Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "de4de52f-afc3-420f-b4e2-01ad0710d471",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "de4de52f-afc3-420f-b4e2-01ad0710d471.png",
+      "boundingBox": {
+        "x": 163.33333333333343,
+        "y": 737.6666666666664,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T09:59:41.470Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "8a4b0f4c-6255-41c2-b230-58e4564cf2bd",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "8a4b0f4c-6255-41c2-b230-58e4564cf2bd.png",
+      "boundingBox": {
+        "x": 138.00000000000006,
+        "y": 727.3333333333331,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 1,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T10:00:21.681Z"
+      },
+      "isProgress": false
+    },
+    {
+      "id": "a02427da-1a08-495c-b02c-3d93adf754fa",
+      "name": "Object 0 (Copy) (Copy) (Copy) (Copy) (Copy) (Copy)",
+      "filename": "a02427da-1a08-495c-b02c-3d93adf754fa.png",
+      "boundingBox": {
+        "x": 685.6666666666667,
+        "y": 700.9999999999999,
+        "width": 44,
+        "height": 35
+      },
+      "layer": 75,
+      "visible": true,
+      "locked": false,
+      "description": "wood fence",
+      "metadata": {
+        "version": "2026-01-31T09:48:22.552971",
+        "lastEdited": "2026-01-31T09:48:22.552971",
+        "generatedAt": "2026-01-31T10:00:49.030Z"
+      },
+      "isProgress": false
+    }
+  ]
+}

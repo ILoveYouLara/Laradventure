@@ -11,6 +11,10 @@ const dialogueBox = document.getElementById("dialogue-box");
 const dialogueText = document.getElementById("dialogue-text");
 const dialogueChoices = document.getElementById("dialogue-choices");
 const typingSfx = document.getElementById("typing-sfx");
+const collectSfx = document.getElementById("collect-sfx");
+const doorSfx = document.getElementById("door-sfx");
+const swordSfx = document.getElementById("sword-sfx");
+const eatSfx = document.getElementById("eat-sfx");
 const bgMusic = document.getElementById("game-music");
 
 
@@ -306,10 +310,13 @@ function showDialogue(message, choices = [], onChoice = null) {
   let index = 0;
 
   function typeNextLetter() {
-    if (index < message.length) {
-      dialogueText.innerHTML += message[index];
+    if (index === 0) {
       typingSfx.currentTime = 0;
       typingSfx.play().catch(() => { });
+    }
+
+    if (index < message.length) {
+      dialogueText.innerHTML += message[index];
       index++;
       setTimeout(typeNextLetter, 50);
     } else {
@@ -430,7 +437,7 @@ function enterHouse() {
   // save current outside position
   savedOutsidePosition.x = outsidePlayer.x;
   savedOutsidePosition.y = outsidePlayer.y;
-
+  doorSfx.play().catch(() => { });
   cutsceneActive = true;
   playerEl.style.opacity = "1";
   playerEl.style.zIndex = 1000;
@@ -461,7 +468,7 @@ function enterHouse() {
 
 function exitHouse() {
   cutsceneActive = true;
-
+  doorSfx.play().catch(() => { });
   // restore saved position
   outsidePlayer.x = savedOutsidePosition.x;
   outsidePlayer.y = savedOutsidePosition.y;
@@ -475,7 +482,22 @@ function exitHouse() {
   interiorMap.style.display = "block"; // or hide if not needed
   map.style.display = "block";
   overlayMap.style.display = "block";
-  objects.forEach(obj => obj.el.style.display = "block");
+  objects.forEach(obj => {
+    if (!obj.el) return;
+
+    if (obj.el.id === "bearap") {
+      obj.el.style.display = hasTouchedBear ? "block" : "none";
+      return;
+    }
+
+    if (obj.el.id === "bear") {
+      obj.el.style.display = hasTouchedBear ? "none" : "block";
+      return;
+    }
+
+    obj.el.style.display = "block";
+  });
+
 
   indoorObjects.forEach(obj => obj.el.style.display = "none");
 
@@ -511,6 +533,7 @@ function checkInteractions() {
             ["Pick", "No"],
             choice => {
               if (choice === "Pick") {
+                collectSfx.play().catch(() => { });
                 showDialogue(
                   "Do you want to eat it?",
                   ["Yes", "Leave in Inventory"],
@@ -521,7 +544,7 @@ function checkInteractions() {
                         "Apple Acquired!",
                         ["Continue"]);
                       console.log("Apple acquired");
-                    }
+                    } else {eatSfx.play().catch(() => { });}
                   }
                 );
               }
@@ -795,6 +818,7 @@ function checkInteractions() {
                     if (choice === "Get") {
                       chestOpened = true;
                       hasSword = true;
+                      swordSfx.play().catch(() => { });
                       showDialogue(
                         "Sword Acquired!",
                         ["Continue"]);

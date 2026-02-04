@@ -1,0 +1,401 @@
+/* =========================================================
+   🎮 PIXEL GAME STYLESHEET
+   Organized + Debugged by OpenAI Assistant
+   ========================================================= */
+
+/* ===================== FONTS ===================== */
+@font-face {
+  font-family: 'PixelFont';
+  src: url('fonts/ARCADECLASSIC.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Pixel2';
+  src: url('fonts/ByteBounce.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ===================== GLOBAL ===================== */
+body {
+  margin: 0;
+  font-family: 'PixelFont', sans-serif;
+}
+
+/* ===================== GAME SCREEN ===================== */
+.game-screen {
+  width: 100vw;
+  height: 100vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(189, 189, 189, 0)),
+    url('images/ValentinesBackground.png') center/cover no-repeat;
+  position: relative;
+}
+
+/* ===================== OVERLAY / UI LAYOUT ===================== */
+.overlay {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* ===================== TITLE SCREEN ===================== */
+.game-title {
+  font-size: clamp(80px, 12vw, 190px);
+  color: #fff;
+  -webkit-text-stroke: 4px rgb(255, 128, 192);
+  text-shadow: 0 0 10px rgba(255, 105, 180, 0.6);
+  margin-bottom: -4rem;
+}
+
+.subtitle {
+  font-size: clamp(24px, 4vw, 48px);
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+.subtitle2 {
+  font-size: 80px;
+  margin-top: 2rem;
+  color: #fff;
+  text-shadow:
+    4px 4px 0 black,
+   -4px 4px 0 black,
+    4px -4px 0 black,
+   -4px -4px 0 black;
+}
+/* =========================================================
+   🩷 FIX: Title‑screen button + animation layout
+   ========================================================= */
+
+/*  Ensure wrapper uses a column flow (GIF above button)  */
+.button-gif-wrapper {
+  display: flex;
+  flex-direction: column;   /* vertical stack */
+  align-items: center;
+  justify-content: center;         /* space between GIF and button */
+
+}
+
+/*  Keep your pixel art GIF centered, prevent Bootstrap img-fluid scaling  */
+.between-gif {
+  display: block;
+  width: clamp(100px, 15vw, 200px);
+  max-width: 100%;
+  height: auto;
+  margin-right: 12px;
+  margin-top: 60px; /* try -10px to -40px */
+  image-rendering: pixelated;
+  pointer-events: none;
+   z-index: 2;
+}
+
+/*  Cancel Bootstrap’s default button margins  */
+.start-btn {
+  margin: 0;
+  margin-top: -80px; /* try -10px to -40px */
+  z-index: 1;
+  display: inline-block;
+}
+
+/* ===================== BUTTON STYLES ===================== */
+.start-btn {
+  font-size: clamp(18px, 2.5vw, 32px);
+  padding: 12px 40px;
+  background: hotpink;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 10px 0 #b03070;
+  transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.start-btn:hover {
+  background-color: white;
+  color: #b03070;
+  box-shadow: 0 7px 0 #b03070;
+}
+
+.start-btn:active {
+  box-shadow: 0 0 0 #b03070;
+}
+
+/* ===================== CHARACTER SELECT ===================== */
+.character-buttons {
+  display: flex;
+  margin-top: 2rem;
+}
+
+.char-btn {
+  position: relative;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.char-btn img {
+  width: 250px;
+  image-rendering: pixelated;
+}
+
+.char-btn:active {
+  transform: translateY(2px);
+}
+
+/* Hover-Swap Effects */
+.hover-swap1:hover { content: url("images/chefidle.gif"); }
+.hover-swap2:hover { content: url("images/uniformidle.gif"); }
+.hover-swap3:hover { content: url("images/casualidle.gif"); }
+
+/* ===================== CHARACTER BOX ===================== */
+.character-box {
+  position: relative;
+  background: #fff;
+  border: 7px solid black;
+  box-shadow: 8px 8px 0px #ff69b4;
+  width: 800px;
+  height: 280px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* ===================== MAP (OUTSIDE WORLD) ===================== */
+#game {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4000px;
+  height: 4000px;
+  transform-origin: 0 0;
+  z-index: 1;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4000px;
+  height: 4000px;
+  background: url("images/map-composite.gif") no-repeat center/cover;
+  image-rendering: pixelated;
+  z-index: 1;
+}
+
+/* Overlay Map Layer (e.g. collision overlay or lighting) */
+#overlay-map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4000px;
+  height: 4000px;
+  z-index: 15;
+}
+
+#overlay-map::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("images/collision.png") no-repeat center/cover;
+  opacity: 0;
+  z-index: -1;
+}
+
+/* ===================== PLAYER (OUTSIDE) ===================== */
+#player {
+  position: absolute;
+  width: 120px;
+  height: auto;
+  image-rendering: pixelated;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10; /* above map, below objects */
+  pointer-events: none;
+}
+
+/* ===================== OBJECTS (OUTSIDE WORLD) ===================== */
+.objects, .object {
+  position: absolute;
+  image-rendering: pixelated;
+  z-index: 20; /* above player */
+}
+
+#backhouse, #tree, #tree2, #tree3, #house, #appletree, #ken, #bear, #bearap, #fence1, #fence2, #fence3, #fence4 {
+  position: absolute;
+  image-rendering: pixelated;
+}
+
+
+#backhouse {
+  left: 200px;
+  top: 2090px;
+  width: 190px;
+  height: 230px;
+}
+#chest {
+  width: 130px;
+  height: 130px;
+  z-index: 11;
+}
+#ken {
+  width: 120px;
+  z-index: 11;
+}
+#tree, #tree2, #tree3, #appletree {
+  width: 130px;
+  height: 160px;
+  z-index: 11;
+}
+#fence1, #fence2, #fence3, #fence4, #fence5 {
+  width: 163px;
+  height: 120px;
+  z-index: 11;
+}
+#bear, #bearap{
+  width: 240px;
+  height: 220px;
+  z-index: 11;
+}
+
+#house {
+  left: 200px;
+  top: 2090px;
+  width: 190px;
+  height: 230px;
+  z-index: 1;
+}
+
+/* ===================== COLLISION MAP ===================== */
+#collision-map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("images/collision.png") no-repeat center/cover;
+  opacity: 0.5;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* ===================== INTERIOR ===================== */
+#interior-world {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  overflow: hidden;
+  z-index: 100; /* ensures interior is above everything */
+}
+
+/* Interior Map Base */
+#interior-map {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2000px;
+  height: 1200px;
+  background: url("images/map-composite2.png") no-repeat center/cover;
+  image-rendering: pixelated;
+  z-index:1;
+}
+
+/* Interior Player */
+#player-interior {
+  position: fixed;
+  width: 120px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10000; /* above map, below wwalls */
+  image-rendering: pixelated;
+}
+
+/* Interior Walls (above player) */
+#chestt {
+  position: absolute;
+  top:920px;
+  left: 1443px;
+  width: 120px;
+  height: 130px;
+  z-index: 1000;
+  image-rendering: pixelated;
+  pointer-events: none;
+}
+
+/* Other interior decorations */
+.interior-object {
+  position: absolute;
+  z-index: 10; /* above walls if needed */
+  image-rendering: pixelated;
+}
+
+/* ===================== DIALOGUE BOX ===================== */
+#dialogue-box {
+  position: fixed;
+  bottom: 250px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 750px;
+  min-height: 100px;
+  background: rgba(0, 0, 0, 0.8);
+  border: 3px solid white;
+  border-radius: 10px;
+  padding: 15px;
+  color: white;
+  font-family: 'Pixel2', sans-serif;
+  font-size: 40px;
+  z-index: 999;
+}
+
+#dialogue-text {
+  min-height: 50px;
+  text-align: center;
+}
+
+#dialogue-choices {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#dialogue-choices button {
+  margin: 0 10px;
+  padding: 8px 16px;
+  font-family: 'Pixel2', sans-serif;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+/* Generic hidden element class */
+.hidden {
+  display: none;
+}
+
+#chestt.opened {
+  opacity: 0.7;
+  filter: grayscale(1);
+}

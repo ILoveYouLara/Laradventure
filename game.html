@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>LARAdventure – Game</title>
+
+  <style>
+    
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: black;
+    }
+  </style>
+</head>
+
+<body>
+  <audio id="game-music" src="audio/Bg-Music.mp3" loop></audio>
+  <audio id="step-sfx" src="audio/walk.mp3" preload="auto"></audio>
+  
+  <div id="game">
+
+<!-- Main Map (visual composite) -->
+ <div id="outside-world"></div>
+<div id="map">
+   
+</div>
+
+<div id="player-interior"></div>
+    <!-- The player element -->
+    <img id="player" src=" " />
+
+   
+    <!-- Transparent overlay map, placed later to be above the player -->
+    <div id="overlay-map"></div>
+    <img class="objects" id="backhouse" src="objects/backhouse.png" />
+    <img class="objects" id="tree" src="objects/tree.png" />
+    <img class="objects" id="tree2" src="objects/tree.png" />
+    <img class="objects" id="tree3" src="objects/tree.png" />
+     <img class="objects" id="house" src="objects/house.png" />
+     <img class="objects" id="appletree" src="objects/appletree.png" />
+     <img class="objects" id="fence1" src="objects/fence.png" />
+     <img class="objects" id="fence2" src="objects/fence.png" />
+     <img class="objects" id="fence3" src="objects/fence.png" />
+     <img class="objects" id="fence4" src="objects/fence.png" />
+     <img class="objects" id="fence5" src="objects/fence.png" />
+     <img class="objects" id="bear" src="objects/bear.gif" />
+     <img class="objects" id="chest" src="objects/chest.png" />
+     <img class="objects" id="fence" src="objects/fence.png" />
+     <img class="objects" id="bearap" src="objects/bearap.gif" hidden />
+     <img class="objects" id="ken" src="objects/ken.gif" hidden />
+
+
+<div id="interior-world" hidden>
+
+    
+  <div id="interior-map">
+    <img class="interior-object" id="chestt" src="objects/chestt.png" />
+    <img class="interior-object" id="exit" src="objects/exit.png" />
+  </div>
+</div>
+
+    <div id="dialogue-box" class="hidden">
+  <div id="dialogue-text"></div>
+  <div id="dialogue-choices" class="hidden">
+    <button id="choice-yes">Enter</button>
+    <button id="choice-no">Leave</button>
+  </div>
+</div>
+<!-- Hidden interior scene -->
+ <img id="interior-player" src="" style="
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%, -50%);
+  "/>
+</div>
+<div id="interior-scene" style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  background: url('images/house_interior.png') center/cover no-repeat;
+  z-index: 1000;
+">
+
+
+<audio id="typing-sfx" src="audio/typing.mp3" preload="auto"></audio>
+
+</div>
+<script src="game.js"></script>
+
+  <link rel="stylesheet" href="style.css">
+</body>
+</html>
+
